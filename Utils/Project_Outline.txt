@@ -1,0 +1,37 @@
+- Create the project environment (Repository, virtual environment, file structure)
+1. Business Understanding
+    - Problem Statement
+    - Goal and Objectives
+    - Problem Statement
+    - Stakeholders
+    - Key Metrics and Success Criteria
+    - Hypothesis
+    - Analytical Questions
+    - More Information about the project if applicable
+2. Data Understanding
+    - Importation of relevant packages
+    - Load the data set for the project
+    - Perform EDA
+        - Data Validity and cleaning
+            - Check quick stats about the data (info, head, size, unique values etc ... )
+            - Reset date feature to datetime and set as index
+            - Check for the completness of the datesets to make sure you are not missing a date(could be week,
+            - Create new datapoints for the missing days if any
+            - Interpolate or fill NaN values in accordance with business rules and assumptiions for the missin
+        - Univariate Analysis (Boxplot, Density plots, calculate skewness, violin plots etc)
+        - Bivariate Analysis (Correlation, calplot, lineplot)
+            - Decomposition
+            - Check for stationarity
+            - Create new features for the dataset and analyse relationships
+        - Multivariate Analysis(Might be too computationally intensive - skip if this is the case)
+    - Answer Analytical Questions with visualizations
+    - Hypothesis Testing
+3. Data Preparation
+    - Split data into train and test datasets appropriately (Do not use model_selection's train_test_split)
+    - Create machine learning pipelines
+        - Add imputation if any
+        - Perform encoding where necessary
+4. Modelling
+    - Statistical Modelling - (ARIMA, SARIMA, FB Prophet, Auto Regression, etc)
+    - Machine Learning Modelling (XGBoost, LinearRegression, etc)
+5. Evaluation
