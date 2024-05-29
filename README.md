@@ -4,6 +4,12 @@
    <h1><b>Time-Series-Regression-Analysis : Predicting store sales for Corporation Favorita</b></h1>
 </div>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+![image](https://github.com/MoIdris/Time-Series-Regression-Analysis/blob/LP3/Dashboard/image.png)
+
+![image](https://github.com/MoIdris/Time-Series-Regression-Analysis/blob/LP3/Dashboard/Screenshot%202024-05-29%20000402.png)
+
 Below is a summary of the procedure structure on this project. To view a full project documentation, kindly visit this page (https://medium.com/@idmoh44/machine-learning-model-time-series-regression-analysis-fccf3dda5f59)
 
 <!-- TABLE OF CONTENTS -->
@@ -212,13 +218,6 @@ This phase involves exploring the data to understand its characteristics and pat
 **7. Analysis of Business Questions:**
 This phase involves using the insights gained from the EDA and hypothesis testing to answer the business questions identified earlier. This could involve building predictive trends, segmenting the data, or conducting further statistical tests.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-![image](https://github.com/MoIdris/Time-Series-Regression-Analysis/blob/LP3/Dashboard/image.png)
-
-![image](https://github.com/MoIdris/Time-Series-Regression-Analysis/blob/LP3/Dashboard/Screenshot%202024-05-29%20000402.png)
-
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -263,8 +262,6 @@ Activate the virtual environment
 ```sh
     env/Scripts/activate
 ```
-
-
 
 ### Install
 
@@ -330,6 +327,16 @@ Various analytical methods and techniques were utilized to extract insights from
 ## Final Findings
 
 Based on the analysis conducted, several key findings emerged:
+
+- Incorporate the SARIMA model into Corporation Favorita's forecasting framework to enhance the accuracy and reliability of sales predictions.
+
+- Regularly monitor model performance and refine forecasting methodologies to adapt to evolving market dynamics and consumer behavior.
+
+- Consider exploring hybrid models that combine the strengths of SARIMA, ARIMA, and Prophet models to further improve forecasting accuracy.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+![image](https://github.com/MoIdris/Time-Series-Regression-Analysis/blob/LP3/Dashboard/Screenshot%202024-05-29%20002319.png)
 
 
 <!-- AUTHORS -->
