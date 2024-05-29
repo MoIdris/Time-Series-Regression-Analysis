@@ -214,6 +214,9 @@ This phase involves using the insights gained from the EDA and hypothesis testin
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+![image](https://github.com/MoIdris/Time-Series-Regression-Analysis/blob/LP3/Dashboard/image.png)
+
+![image](https://github.com/MoIdris/Time-Series-Regression-Analysis/blob/LP3/Dashboard/Screenshot%202024-05-29%20000402.png)
 
 
 <!-- GETTING STARTED -->
